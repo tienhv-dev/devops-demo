@@ -4,6 +4,6 @@
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex zzzz
+  =>  Template Author  : HTML Codex zzzz zzzz
 
   =>  Author Website   : https://htmlcodex.com
